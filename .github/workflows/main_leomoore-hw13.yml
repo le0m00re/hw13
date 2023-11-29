@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'leomoore-hw13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C007F67FB844C4FA57EF030082ED430 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_858CF7953DDF4324B26F29EC77C6BD10 }}
